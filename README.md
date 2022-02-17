@@ -1,6 +1,6 @@
 - 👋 Aloha, I’m @leilow
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning the Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Ada-Build by Ada Academy.
 - 📫 How to reach me: by email!
 

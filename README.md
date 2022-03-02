@@ -1,4 +1,5 @@
-- 👋 I’m @leilow! She/Her
+- 👋 I’m @leilow! 
+- 🐈‍⬛ I use she/Her.
 - 🌱 Currently learning Python.
 
 

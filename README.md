@@ -1,4 +1,4 @@
-- 👋 I’m @leilow!
+- 👋 I’m @leilow! She/Her
 - 🌱 Currently learning Python.
 
 

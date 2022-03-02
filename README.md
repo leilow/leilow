@@ -1,5 +1,5 @@
-- 👋 Aloha, I’m @leilow!
-- 🌱 I’m currently learning Python.
+- 👋 I’m @leilow!
+- 🌱 Currently learning Python.
 
 
 <!---

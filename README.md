@@ -1,5 +1,5 @@
 * 👋 I’m @leilow! 
-* 🐈‍⬛ I use she/Her.
+* 🐈‍⬛ I use she/her pronouns.
 * 🌱 Currently learning Python.
 
 

@@ -1,6 +1,6 @@
 * 👋 I’m @leilow! 
 * 🐈‍⬛ I use she/her pronouns.
-* 🐍 Currently learning Python.
+* 🐍 Currently a student at Ada Developers Academy.
 
 
 <!---

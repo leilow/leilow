@@ -1,4 +1,4 @@
-* 👋 I’m @leilow! 
+* 👋 I’m lei! 
 * 🐈‍⬛ I use she/her pronouns.
 * 🐍 Currently a student at Ada Developers Academy.
 

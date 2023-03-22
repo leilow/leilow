@@ -1,6 +1,7 @@
-* 👋 I’m lei! 
-* 🐈‍⬛ I use she/her pronouns.
-* 🐍 Currently a student at Ada Developers Academy.
+* 👋 aloha, i'm lei! 
+* 🐈‍⬛ i use she/her pronouns
+* 🐍 Ada Develoeprs Academy alumna
+* 🏄🏽‍♀️ full stack + web dev
 
 
 <!---

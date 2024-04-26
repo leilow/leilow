@@ -1,7 +1,7 @@
 * 👋 aloha, i'm lei! 
 * 🐈‍⬛ i use she/her pronouns
 * 🐍 ada develoeprs academy alumna
-* 🏄🏽‍♀️ full stack + web dev
+* 🏄🏽‍♀️ web dev
 
 
 <!---

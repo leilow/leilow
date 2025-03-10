@@ -1,7 +1,7 @@
-* 👋 aloha, i'm lei! 
-* 🐈‍⬛ i use she/her pronouns
+* 👋 aloha mai. leimomi kou inoa.
+* she/her/oia
 * 🐍 ada develoeprs academy alumna
-* 🏄🏽‍♀️ web dev
+* 🏄🏽‍♀️ full stack dev / creative code
 
 
 <!---

@@ -1,6 +1,6 @@
-👋🏽 aloha mai - leimomi kou inoa - she/her/oia
-🐍 ada develoeprs academy alumna
-🏄🏽‍♀️ full stack dev / creative code
+🐚 aloha mai - leimomi kou inoa - she/her/oia
+🐚 ada develoeprs academy alumna
+🐚 full stack dev / creative code
 
 
 <!---

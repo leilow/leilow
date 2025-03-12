@@ -1,4 +1,4 @@
-🐚 aloha mai - leimomi kou inoa - she/her/oia <br>
+🐚 aloha mai - momi kou inoa - she/her/oia <br>
 
 
 <!---

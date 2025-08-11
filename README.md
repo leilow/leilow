@@ -1,4 +1,4 @@
-🐚 momi kou inoa - she/her/oia - full stack developer
+🐚 momi kou inoa - full stack developer
 
 
 <!---

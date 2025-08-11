@@ -1,4 +1,4 @@
-🐚 momi kou inoa - she/her/oia - full stack developer at purple maiʻa
+🐚 momi kou inoa - she/her/oia - full stack developer
 
 
 <!---
